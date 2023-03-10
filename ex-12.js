@@ -6,7 +6,7 @@ let vet2 = []
 
 for(let i=0; i < 20; i++){
    
-}
+}0
 
 for(let i=0; i < vet1.length; i++){
     if(vet1[i] == 0){

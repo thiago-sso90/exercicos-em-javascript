@@ -4,6 +4,7 @@
 let a=[5,6,7,9]
 let b=[1,2,3,4]
 let c=[]
+
 for(let i=0; i < a.length; i++){
 
 c[i]= a[i] * b[i];
